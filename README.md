@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pneerajk22
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Machine Learning and Artificial Learning
+- 🌱 I’m currently learning Machine Learning and AI
 
 
 <!---
